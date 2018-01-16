@@ -18,7 +18,7 @@ In addition, here are some other docs you may wish to read:
 - [Project Conventions](DEV-CONVENTIONS.md) - describes the conventions we use within the code base
 - [Creating Fast and Lean Code](DEV-PERF.md) - performance-oriented advice and guidelines for the code base
 
-## Introduction
+## Intro
 
 Istio is an open platform for providing a uniform way to integrate
 microservices, manage traffic flow across microservices, enforce policies
